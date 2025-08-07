@@ -1,0 +1,15 @@
+Phishing Email Header Analysis
+
+Email Overview
+* From:- Microsoft account team
+*   To    :-  phishing@pot
+* Date:- 09/08/2023
+* Subject:- Microsoft account unusual signin activity
+* Sender IP Address:-v 89.144.44.2
+Suspicious Links  Attachments:-
+* click here.
+* Report The User
+(this click are actual hidden link this is a redirect phishing side).
+   Spelling Error:-
+* “signin”= instead of “sign in”
+       This is Not a Microsoft  account this a similar to the Microsoft account . 
